@@ -5,7 +5,7 @@
 
 Name:           rust-%{crate}
 Version:        1.0.1
-Release:        1
+Release:        2
 Summary:        Parser and serializer for the application/x-www-form-urlencoded syntax, as used by HTML forms
 
 # Upstream license specification: MIT/Apache-2.0
