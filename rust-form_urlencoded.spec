@@ -4,8 +4,8 @@
 %global crate form_urlencoded
 
 Name:           rust-%{crate}
-Version:        1.0.1
-Release:        2
+Version:        1.2.2
+Release:        1
 Summary:        Parser and serializer for the application/x-www-form-urlencoded syntax, as used by HTML forms
 
 # Upstream license specification: MIT/Apache-2.0
